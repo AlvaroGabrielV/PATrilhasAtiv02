@@ -11,7 +11,7 @@ namespace att01
 
 			float metade = numero / 2;
 			
-			Console.WriteLine("\r\nA soma dos dois numeros é: " + metade);
+			Console.WriteLine("\r\nA metade desse numero é: " + metade);
 			
 			Console.WriteLine("\r\nAperte qualquer tecla para continuar...");
 			Console.ReadKey(true);
