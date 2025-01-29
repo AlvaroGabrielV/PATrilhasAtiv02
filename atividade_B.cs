@@ -11,7 +11,7 @@ namespace att01
 
 			float dobro = numero * 2;
 			
-			Console.WriteLine("\r\nA soma dos dois numeros é: " + dobro);
+			Console.WriteLine("\r\nO dobro desse numero é: " + dobro);
 			
 			Console.WriteLine("\r\nAperte qualquer tecla para continuar...");
 			Console.ReadKey(true);
