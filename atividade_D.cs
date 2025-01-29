@@ -11,7 +11,7 @@ namespace att01
 
 			float quadrado = numero * numero;
 			
-			Console.WriteLine("\r\nA soma dos dois numeros é: " + quadrado);
+			Console.WriteLine("\r\nO quadrado do numero é: " + quadrado);
 			
 			Console.WriteLine("\r\nAperte qualquer tecla para continuar...");
 			Console.ReadKey(true);
